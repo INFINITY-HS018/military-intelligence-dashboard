@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+plotly
+scikit-learn
+joblib
+prophet
+statsmodels
+reportlab
+python-docx
+matplotlib
+folium
+streamlit-folium
